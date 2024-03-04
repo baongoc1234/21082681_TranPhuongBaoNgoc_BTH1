@@ -1,0 +1,236 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+header {
+    color: black;
+    text-align: center;
+    padding: 14px;
+}
+
+header h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+header p {
+    margin: 0;
+}
+
+nav {
+    padding: 20px;
+}
+
+nav a {
+      background-color: black;
+   padding: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+
+header h1 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+section ul {
+    list-style: none;
+    padding: 10;
+}
+
+section ul ol {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+section ul li a {
+  
+  background-color:green;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #cccccc;
+    padding: 5px 5px;
+}
+
+/* Header */
+header {
+   
+    color: black;
+   
+    padding: 0px;
+}
+a {background-color:blue;
+padding:  10px ;
+color: white;
+ margin-top: 10px;}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+   text-align: center;
+    font-size: 24px;
+    margin-top: 0;
+}
+
+p {
+   text-align: center;
+    margin-bottom: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+/* Container */
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+/* Header */
+.header {
+    text-align: center;
+}
+
+.header img {
+    width: 200%;
+    max-width: 500px;
+}
+
+/* Promotion */
+.promotion {
+   color: white;
+    padding: 20px;
+  background-image:url(https://i.pinimg.com/564x/dd/6c/42/dd6c420d4e1cb7cac3623f0896bcd04c.jpg);
+}
+main-wrapper img { width="200%"}
+main-wrapper h1,p,a {
+  .promotion h1 {
+    position: absolute;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.noidung p {
+    text-align: center;
+}
+
+.noidung a {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    margin-top: 20px;
+}
+}
+
+.noidung {
+  color: white;
+  text-align: center;
+  background-image:url(https://www.idp.com/medias/general-astrophysic1-mobile.jpg?context=bWFzdGVyfHJvb3R8MzI0MDR8aW1hZ2UvanBlZ3xhRFUwTDJnek1TOHhNVFExTkRJME9EYzNPVGd3Tmk5blpXNWxjbUZzWDJGemRISnZjR2g1YzJsak1TMXRiMkpwYkdVdWFuQm58ZWVlZjc0YjI0YTk3YTE5ZDZmNzkyOTIzYjg4NDBlZWU5ZThjNmE4YzdjMjUwYzYyYmM2Mjc4NmMyYWRiODdmMA);
+  
+}
+.noidung img {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.noidung h1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+.noidung p {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-color: yellow;
+}
+
+
+
+
+
+
